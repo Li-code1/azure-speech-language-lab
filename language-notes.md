@@ -15,6 +15,7 @@
 - A extração de entidades reconheceu nomes de produtos, locais e datas.
 - A classificação de texto foi útil para categorizar feedbacks.
 
+
  ⚠️ Desafios
 - Textos curtos ou ambíguos geraram resultados imprecisos.
 - Algumas entidades foram ignoradas por falta de contexto.
